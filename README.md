@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/AI-2F80ED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
-- Pandas, NumPy  
-- Power BI, Tableau, Excel  
-- LLM APIs, LangChain, RAG, n8n  
 
 #### ⚙️ Tools
 <p>
