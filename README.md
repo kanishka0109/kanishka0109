@@ -4,7 +4,7 @@
 <br/>
 
 📫 Reach me at:  
-👉 **patelkanishka167@gmail.com**
+👉 **kanishkap2806@gmail.com**
 
 
 ### 🛠️ Tech Stack
